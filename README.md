@@ -40,9 +40,8 @@
 ### 📫 Let's Connect!
 <p>
   <a href="mailto:rsakshi205@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- Add social links here if needed -->
 </p>
 
 ---
-> “Code with purpose, learn with passion.”
 
+> “Code with purpose, learn with passion.”
