@@ -1,58 +1,52 @@
-<!-- Header Section -->
-<h1 align="center">Hi there 👋, I'm Sakshi R</h1>
-<h3 align="center">🔹 Full Stack Python Web Developer | 🛡️ Cyber Security Enthusiast | 🚀 Lifelong Learner</h3>
+# 👋 Hi, I'm Sakshi R
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Passionate+about+Python+Development;Exploring+Django+%26+FastAPI;Collaborating+on+Cyber+Security;Learning+every+day..." alt="Typing SVG" />
-</p>
+🌱 I’m a Full Stack Python Developer passionate about creating impactful web applications using Django, FastAPI, and modern frontend technologies.
 
----
+💼 I’m currently seeking full-time opportunities where I can contribute to challenging projects and grow as a developer.
 
-### 🔍 About Me
-
-- 👨‍💻 I’m a Python-focused full stack web developer
-- 🌱 Currently exploring **Django**, **FastAPI**, and **REST APIs**
-- 💞️ Eager to collaborate in **Cyber Security** and **Web Development**
-- 📬 Email me at: **[rsakshi205@gmail.com](mailto:rsakshi205@gmail.com)**
-- 🧠 Always open to learn and grow
-- 😄 Pronouns: **He/Him**
+📫 **Reach me at**:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/sakshi-r-906ab1235/)
+- [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/seclusive-saku27)
 
 ---
 
-### 💻 Tech Stack
+## 🛠️ Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,sqlite,postgres,html,css,js,git,github,vscode,linux" />
-</p>
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+### 🌐 Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 📊 GitHub Stats
+### 🛢️ Database & Tools
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seclusive-saku27&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seclusive-saku27&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="170" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:rsakshi205@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/seclusive-saku27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sakshi-r-906ab1235/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-### 🧠 Quote I Live By
-
-> “The best way to predict the future is to invent it.” – Alan Kay
+### 🔧 Dev Tools
+![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
-</p>
+## 📈 GitHub Stats
+
+![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=seclusive-saku27&show_icons=true&theme=github_dark)
+
+---
+
+## 📝 Recent Projects
+
+- **LAW EDIFY**: Legal NLP platform to summarize and rank judgments using TextRank, TF-IDF, Cosine Similarity.
+- **Blood Bank Management System**: Manages blood donations, inventory, and requests.
+- **3D House with OpenCV**: Interactive 3D rendering of house models using computer vision.
+- **Travel Guide App**: Django-based app with authentication, CRUD operations, and image handling.
+
+---
