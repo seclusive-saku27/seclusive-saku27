@@ -56,13 +56,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seclusive-saku27&show_icons=true&theme=radical&count_private=true&include_all_commits=true&line_height=24&hide_border=true&custom_title=Sakshi's+GitHub+Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seclusive-saku27&theme=radical&hide_border=true&fire=FF6F91&ring=FF6F91" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seclusive-saku27&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=Jupyter%20Notebook" />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seclusive-saku27&theme=redical&hide_border=true&area=true&custom_title=My+Contribution+Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seclusive-saku27&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seclusive-saku27&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seclusive-saku27&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -72,57 +68,31 @@
 <details>
   <summary><b>⚖️ LAW EDIFY - Legal NLP Platform</b></summary>
   <br>
-  <p align="center">
-    <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400">
-  </p>
   <ul>
-    <li>Developed legal document analysis system with case summarization</li>
-    <li>Implemented TF-IDF and Cosine Similarity for precedent research</li>
-    <li>Built interactive Gradio interface for legal professionals</li>
+    <li>Legal document summarization using NLP techniques</li>
+    <li>TF-IDF & Cosine Similarity for precedent analysis</li>
+    <li>Gradio-based interactive UI</li>
   </ul>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/NLTK-008000?style=flat">
-    <img src="https://img.shields.io/badge/Gradio-FF4B4B?style=flat">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white">
-  </p>
 </details>
 
 <details>
   <summary><b>💉 Blood Bank Management System</b></summary>
   <br>
-  <p align="center">
-    <img src="https://media.giphy.com/media/3o7TKsQ8gQgPmWrs7S/giphy.gif" width="400">
-  </p>
   <ul>
-    <li>Full-stack system for donor and inventory management</li>
-    <li>Emergency request handling with SMS notifications</li>
-    <li>Admin dashboard with reporting capabilities</li>
+    <li>Donor & inventory management system</li>
+    <li>Emergency handling workflow</li>
+    <li>Admin dashboard and reporting</li>
   </ul>
-  <p align="center">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
-  </p>
 </details>
-
----
-
-## 🌟 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2] in [seclusive-saku27/Law-Edify]  
-2. 🚀 Pushed 3 commits to [seclusive-saku27/Travel-Guide-App]  
-3. 💪 Opened PR [#1] in [seclusive-saku27/Blood-Bank-System]  
-4. 🎉 Created repository [seclusive-saku27/3D-House-Modeling]  
-<!--END_SECTION:activity-->
 
 ---
 
 ## 🎨 Coding Activity
 
 ```text
-Python       ████████████████████░░░░   85% 
-JavaScript   ██████████░░░░░░░░░░░░░   45%
-HTML/CSS     ████████████░░░░░░░░░░░   60%
-SQL          █████████████░░░░░░░░░░   65%
+Python        ██████████████████████░░   90%
+JavaScript    ████████████████░░░░░░░░   65%
+HTML / CSS    █████████████████░░░░░░░   75%
+SQL           ██████████████████░░░░░░   80%
+Django        █████████████████████░░░   88%
+FastAPI       ███████████████████░░░░░   82%
