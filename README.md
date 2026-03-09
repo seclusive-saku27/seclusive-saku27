@@ -28,11 +28,11 @@
         <p style="color: #B0B8D9; font-size: 16px; line-height: 1.6;">
           Currently architecting <b>AI-powered Legal Tech solutions</b> and <b>Real-time Healthcare Systems</b>. My philosophy: write code that is as elegant as it is efficient.
         </p>
-        <div style="display: flex; gap: 10px;">
+        <!-- <div style="display: flex; gap: 10px;">
           <img src="https://img.shields.io/badge/FOCUS-Backend_Scalability-F875AA?style=flat-square" />
           <img src="https://img.shields.io/badge/METHODOLOGY-Agile-79ff97?style=flat-square" />
           <img src="https://img.shields.io/badge/SKILL-2min_Rubiks-875AFD?style=flat-square" />
-        </div>
+        </div> -->
       </div>
     </td>
     <td width="35%" align="center" valign="middle">
