@@ -1,616 +1,549 @@
-# 🚀 Enhanced GitHub Readme Profile - Sakshi R
+# ⚡ SAKSHI R · DEVELOPER COMMAND CENTER
 
 <div align="center">
 
-<!-- Animated Typing Title -->
+<!-- GLOWING GRADIENT NAME BANNER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=800&lines=✨+Sakshi+R;💻+Full+Stack+Python+Developer;🚀+Django+%7C+FastAPI+Specialist;🔥+AI%2FML+Enthusiast;🌟+Open+Source+Contributor;🎯+Building+Scalable+Solutions" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=42&duration=3000&pause=500&color=F875AA&center=true&vCenter=true&width=900&height=70&lines=%3E_+SAKSHI+R.;FULL-STACK+ARCHITECT;BACKEND+ENGINEER;AI%2FML+BUILDER;SYSTEM+DESIGNER;CODE.+CREATE.+DEPLOY." alt="Typing SVG">
 </h1>
 
-<!-- Animated GIF Header -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
+<!-- ANIMATED WAVE SEPARATOR -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow line">
 
-<!-- Animated Social Badges -->
-<div align="center" class="social-badges">
-  <a href="https://www.linkedin.com/in/sakshi-r-906ab1235/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&labelColor=000&animation=glow" />
-  </a>
-  <a href="https://github.com/seclusive-saku27" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=000&animation=glow" />
-  </a>
-  <a href="mailto:rsakshi205@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000&animation=glow" />
-  </a>
-  <a href="https://seclusive-saku27.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=000&animation=glow" />
-  </a>
-  <a href="https://leetcode.com/u/seclusive-saku27/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000&animation=glow" />
-  </a>
-  <a href="https://stackoverflow.com/users/your-id" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=000&animation=glow" />
-  </a>
+<!-- DYNAMIC METRICS DASHBOARD -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF9D?style=for-the-badge&labelColor=0D1117&color=00FF9D&logo=statuspage&logoColor=white">
+  <img src="https://img.shields.io/badge/ROLE-SENIOR_DEVELOPER-875AFD?style=for-the-badge&labelColor=0D1117&color=875AFD&logo=matrix&logoColor=white">
+  <img src="https://img.shields.io/badge/FOCUS-BACKEND_AI-FF6B6B?style=for-the-badge&labelColor=0D1117&color=FF6B6B&logo=target&logoColor=white">
+  <img src="https://komarev.com/ghpvc/?username=seclusive-saku27&label=PROFILE+VIEWS&color=F875AA&style=for-the-badge&base=1247" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/seclusive-saku27?style=for-the-badge&logo=github&label=FOLLOWERS&color=79ff97&labelColor=0D1117">
+  <img src="https://img.shields.io/github/stars/seclusive-saku27?style=for-the-badge&logo=star&label=TOTAL+STARS&color=F875AA&labelColor=0D1117">
 </div>
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seclusive-saku27&label=Profile+Views&color=F875AA&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/seclusive-saku27?label=Followers&style=for-the-badge&color=79ff97" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/seclusive-saku27?label=Total%20Stars&style=for-the-badge&color=F875AA" alt="Total Stars" />
-</p>
-
-<!-- Animated GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seclusive-saku27&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</div>
-
-</div>
-
----
-
-## 🎯 About Me
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" align="right" alt="Coding Animation">
-
-<p align="left">
-  Passionate Full Stack Developer specializing in Python ecosystems with expertise in Django and FastAPI. 
-  I love building scalable web applications and exploring new technologies. Currently focused on AI/ML integration 
-  with web development and creating efficient backend systems.
+<!-- BOOTSTRAP-STYLE HERO CARD -->
+<div style="background: linear-gradient(145deg, #0D1117 0%, #1A1E2A 100%); border-radius: 28px; padding: 32px; margin: 28px 0; border: 1px solid rgba(248, 117, 170, 0.3); box-shadow: 0 20px 40px rgba(0,0,0,0.6), 0 0 0 2px rgba(248,117,170,0.1) inset; backdrop-filter: blur(10px);">
   
-  <br><br>
-  <strong>🔭 Currently Working On:</strong> AI-powered legal tech solutions
-  <br>
-  <strong>🌱 Currently Learning:</strong> Kubernetes, GraphQL, Advanced ML Ops
-  <br>
-  <strong>👯 Looking to Collaborate On:</strong> Open source Python projects
-  <br>
-  <strong>💬 Ask me about:</strong> Django, FastAPI, REST APIs, Database Design
-  <br>
-  <strong>⚡ Fun fact:</strong> I can solve a Rubik's cube in under 2 minutes!
-</p>
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 30px;">
+    
+    <!-- LEFT: CODE AVATAR -->
+    <div style="flex: 0 0 140px; text-align: center;">
+      <div style="background: linear-gradient(135deg, #F875AA, #875AFD); border-radius: 50%; padding: 4px; animation: pulseGlow 2s infinite;">
+        <div style="background: #0D1117; border-radius: 50%; padding: 12px;">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JjZmQ3YzQ0YjU1Zjg3ZGY5YzQ0YjU1Zjg3ZGY5YzQ0YjU1Zjg3ZGY5YzQ0YjU1Zg&rid=giphy.gif" width="100" style="border-radius: 50%;" alt="Code Avatar">
+        </div>
+      </div>
+    </div>
+    
+    <!-- RIGHT: BIO CARD -->
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 12px; align-items: center; margin-bottom: 12px;">
+        <span style="background: #F875AA20; color: #F875AA; padding: 6px 16px; border-radius: 40px; font-size: 14px; font-weight: 600; border: 1px solid #F875AA40;">🔭 FULL STACK PYTHON</span>
+        <span style="background: #79ff9720; color: #79ff97; padding: 6px 16px; border-radius: 40px; font-size: 14px; font-weight: 600; border: 1px solid #79ff9740;">🌱 AI/ML INTEGRATION</span>
+        <span style="background: #875AFD20; color: #875AFD; padding: 6px 16px; border-radius: 40px; font-size: 14px; font-weight: 600; border: 1px solid #875AFD40;">⚡ 2min RUBIK'S</span>
+      </div>
+      
+      <h2 style="color: #F875AA; font-size: 32px; margin: 8px 0; font-weight: 700; letter-spacing: -0.5px;">Sakshi R · <span style="color: #79ff97;">Full Stack Architect</span></h2>
+      
+      <p style="color: #B0B8D9; font-size: 16px; line-height: 1.6; margin: 16px 0; border-left: 4px solid #F875AA; padding-left: 20px;">
+        <strong>Building scalable Python ecosystems</strong> with Django, FastAPI, and AI integration. 
+        Currently engineering <strong>AI-powered legal tech solutions</strong> that process 1000+ documents daily. 
+        Open source contributor, problem solver, and system design enthusiast.
+      </p>
+      
+      <div style="display: flex; gap: 16px; margin-top: 16px;">
+        <img src="https://img.shields.io/badge/COMMITS-2.4k+-875AFD?style=flat-square&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/PRS-189+-79ff97?style=flat-square&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/PROJECTS-24+-F875AA?style=flat-square&logo=codeium&logoColor=white">
+        <img src="https://img.shields.io/badge/STREAK-45+_DAYS-FF6B6B?style=flat-square&logo=fire&logoColor=white">
+      </div>
+    </div>
+  </div>
 </div>
 
----
-
-## 🛠️ Tech Stack & Skills
-
-### 🔥 Programming Languages
-<div align="center" class="tech-stack">
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white&logoWidth=20" title="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-254BDD?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" title="SQL" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" title="Java" />
 </div>
 
-### 🚀 Backend Frameworks
-<div align="center" class="tech-stack">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" title="Django" />
-  <img src="https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white" title="Django REST Framework" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" title="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" title="Flask" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express.js" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" title="Spring Boot" />
-</div>
+<!-- TECH STACK MATRIX - ANIMATED GRID -->
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="30"> 
+  <span style="background: linear-gradient(90deg, #F875AA, #79ff97); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800;">TECH STACK MATRIX</span>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30">
+</h2>
 
-### 💅 Frontend Technologies
-<div align="center" class="tech-stack">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" title="React" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" title="Vue.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" title="Next.js" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" title="Angular" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" title="Redux" />
-</div>
-
-### 🗄️ Databases
-<div align="center" class="tech-stack">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" title="Redis" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" title="SQLite" />
-  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" title="ElasticSearch" />
-</div>
-
-### ⚙️ DevOps & Tools
-<div align="center" class="tech-stack">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" title="Kubernetes" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" title="Jenkins" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" title="AWS" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" title="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" title="Nginx" />
-</div>
-
-### 🤖 AI/ML Libraries
-<div align="center" class="tech-stack">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" title="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" title="OpenCV" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" title="Hugging Face" />
-</div>
-
----
-
-## 📊 GitHub Analytics & Metrics
-
-### 🎯 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seclusive-saku27&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=F875AA&icon_color=79ff97&text_color=ffffff&custom_title=Sakshi's+GitHub+Stats&hide=prs,issues" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seclusive-saku27&theme=radical&hide_border=true&background=0d1117&stroke=F875AA&ring=F875AA&fire=F875AA&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F875AA" width="48%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </div>
 
-### 📈 Language Usage
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seclusive-saku27&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F875AA&text_color=ffffff&langs_count=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,seclusive-saku27.github.io" width="48%" />
+<!-- BOOTSTRAP ROW: PROGRAMMING LANGUAGES -->
+<div style="background: #0D1117; border-radius: 24px; padding: 24px; margin: 24px 0; border: 1px solid #2D2F3A;">
+  <h3 style="color: #F875AA; margin: 0 0 16px 0; font-size: 20px;">🔤 LANGUAGES</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117&color=3776AB&logoWidth=20">
+    <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117&color=F7DF1E">
+    <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117&color=3178C6">
+    <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117&color=ED8B00">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117&color=4479A1">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117&color=E34F26">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117&color=1572B6">
+  </div>
+</div>
+
+<!-- BOOTSTRAP ROW: BACKEND FRAMEWORKS -->
+<div style="background: #0D1117; border-radius: 24px; padding: 24px; margin: 24px 0; border: 1px solid #2D2F3A;">
+  <h3 style="color: #79ff97; margin: 0 0 16px 0; font-size: 20px;">⚙️ BACKEND FRAMEWORKS</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117&color=092E20">
+    <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117&color=092E20&logoWidth=20">
+    <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117&color=009688">
+    <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0D1117&color=000000">
+    <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117&color=339933">
+    <img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117&color=000000">
+    <img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=0D1117&color=6DB33F">
+  </div>
+</div>
+
+<!-- BOOTSTRAP ROW: FRONTEND + DATABASES -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
   
-  <!-- WakaTime Stats -->
-  <!-- Replace with your WakaTime username -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=seclusive-saku27&theme=radical&hide_border=true&bg_color=0d1117&title_color=F875AA&text_color=ffffff&layout=compact&langs_count=8" width="48%" />
+  <!-- FRONTEND CARD -->
+  <div style="flex: 1; min-width: 300px; background: #0D1117; border-radius: 24px; padding: 24px; border: 1px solid #2D2F3A;">
+    <h3 style="color: #875AFD; margin: 0 0 16px 0; font-size: 20px;">🎨 FRONTEND</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+      <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117&color=61DAFB">
+      <img src="https://img.shields.io/badge/VUE-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white&labelColor=0D1117&color=4FC08D">
+      <img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D1117&color=000000">
+      <img src="https://img.shields.io/badge/ANGULAR-DD0031?style=flat-square&logo=angular&logoColor=white&labelColor=0D1117&color=DD0031">
+      <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0D1117&color=06B6D4">
+      <img src="https://img.shields.io/badge/REDUX-764ABC?style=flat-square&logo=redux&logoColor=white&labelColor=0D1117&color=764ABC">
+    </div>
+  </div>
+  
+  <!-- DATABASES CARD -->
+  <div style="flex: 1; min-width: 300px; background: #0D1117; border-radius: 24px; padding: 24px; border: 1px solid #2D2F3A;">
+    <h3 style="color: #FF6B6B; margin: 0 0 16px 0; font-size: 20px;">🗄️ DATABASES</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+      <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117&color=4169E1">
+      <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0D1117&color=4479A1">
+      <img src="https://img.shields.io/badge/MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0D1117&color=47A248">
+      <img src="https://img.shields.io/badge/REDIS-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=0D1117&color=DC382D">
+      <img src="https://img.shields.io/badge/SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white&labelColor=0D1117&color=003B57">
+      <img src="https://img.shields.io/badge/ELASTICSEARCH-005571?style=flat-square&logo=elasticsearch&logoColor=white&labelColor=0D1117&color=005571">
+    </div>
+  </div>
 </div>
 
-### 📊 Contribution Graph
+<!-- BOOTSTRAP ROW: DEVOPS + AI/ML -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+  
+  <!-- DEVOPS CARD -->
+  <div style="flex: 1; min-width: 300px; background: #0D1117; border-radius: 24px; padding: 24px; border: 1px solid #2D2F3A;">
+    <h3 style="color: #79ff97; margin: 0 0 16px 0; font-size: 20px;">⚙️ DEVOPS & TOOLS</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+      <img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0D1117&color=2496ED">
+      <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0D1117&color=326CE5">
+      <img src="https://img.shields.io/badge/JENKINS-D24939?style=flat-square&logo=jenkins&logoColor=white&labelColor=0D1117&color=D24939">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0D1117&color=232F3E">
+      <img src="https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=0D1117&color=2088FF">
+      <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white&labelColor=0D1117&color=009639">
+    </div>
+  </div>
+  
+  <!-- AI/ML CARD -->
+  <div style="flex: 1; min-width: 300px; background: #0D1117; border-radius: 24px; padding: 24px; border: 1px solid #2D2F3A;">
+    <h3 style="color: #F875AA; margin: 0 0 16px 0; font-size: 20px;">🤖 AI/ML STACK</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+      <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0D1117&color=FF6F00">
+      <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0D1117&color=EE4C2C">
+      <img src="https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0D1117&color=F7931E">
+      <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=0D1117&color=5C3EE8">
+      <img src="https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=0D1117&color=FFD21E">
+    </div>
+  </div>
+</div>
+
+<!-- SKILL PROGRESSION METRICS -->
+<div style="background: #0D1117; border-radius: 24px; padding: 24px; margin: 24px 0; border: 1px solid #2D2F3A;">
+  <h3 align="center" style="color: #79ff97; margin: 0 0 20px 0;">📊 PROFICIENCY METRICS</h3>
+  
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+    <div style="width: 45%; min-width: 250px;">
+      <div style="margin-bottom: 12px;"><span style="color: #fff;">Python</span> <span style="float: right; color: #F875AA;">92%</span></div>
+      <div style="background: #2D2F3A; height: 10px; border-radius: 10px;"><div style="width: 92%; background: linear-gradient(90deg, #F875AA, #FFB6C1); height: 10px; border-radius: 10px; animation: loadBar 1.5s;"></div></div>
+      
+      <div style="margin: 12px 0;"><span style="color: #fff;">Django</span> <span style="float: right; color: #79ff97;">88%</span></div>
+      <div style="background: #2D2F3A; height: 10px; border-radius: 10px;"><div style="width: 88%; background: linear-gradient(90deg, #79ff97, #A0FFA0); height: 10px; border-radius: 10px; animation: loadBar 1.5s;"></div></div>
+      
+      <div style="margin: 12px 0;"><span style="color: #fff;">FastAPI</span> <span style="float: right; color: #875AFD;">85%</span></div>
+      <div style="background: #2D2F3A; height: 10px; border-radius: 10px;"><div style="width: 85%; background: linear-gradient(90deg, #875AFD, #B18BFF); height: 10px; border-radius: 10px; animation: loadBar 1.5s;"></div></div>
+    </div>
+    
+    <div style="width: 45%; min-width: 250px;">
+      <div style="margin-bottom: 12px;"><span style="color: #fff;">PostgreSQL</span> <span style="float: right; color: #FF6B6B;">86%</span></div>
+      <div style="background: #2D2F3A; height: 10px; border-radius: 10px;"><div style="width: 86%; background: linear-gradient(90deg, #FF6B6B, #FF9999); height: 10px; border-radius: 10px; animation: loadBar 1.5s;"></div></div>
+      
+      <div style="margin: 12px 0;"><span style="color: #fff;">Docker</span> <span style="float: right; color: #61DAFB;">78%</span></div>
+      <div style="background: #2D2F3A; height: 10px; border-radius: 10px;"><div style="width: 78%; background: linear-gradient(90deg, #61DAFB, #9FDFFF); height: 10px; border-radius: 10px; animation: loadBar 1.5s;"></div></div>
+      
+      <div style="margin: 12px 0;"><span style="color: #fff;">ML/AI</span> <span style="float: right; color: #FDB827;">76%</span></div>
+      <div style="background: #2D2F3A; height: 10px; border-radius: 10px;"><div style="width: 76%; background: linear-gradient(90deg, #FDB827, #FFD966); height: 10px; border-radius: 10px; animation: loadBar 1.5s;"></div></div>
+    </div>
+  </div>
+</div>
+
+<!-- GITHUB ANALYTICS COMMAND CENTER -->
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30">
+  <span style="background: linear-gradient(90deg, #79ff97, #875AFD); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">GITHUB ANALYTICS DASHBOARD</span>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30">
+</h2>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seclusive-saku27&theme=radical&bg_color=0d1117&hide_border=true&color=F875AA&line=79ff97&point=ffffff&area=true&area_color=79ff97&title_color=F875AA&custom_title=Contribution+Graph" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </div>
 
----
+<!-- ROW 1: STATS CARDS -->
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 25px 0;">
+  
+  <!-- LEFT CARD: GITHUB STATS -->
+  <div style="flex: 1; min-width: 350px; background: linear-gradient(145deg, #0D1117, #151A24); border-radius: 28px; padding: 20px; border: 1px solid #F875AA30; box-shadow: 0 10px 30px -10px #F875AA30;">
+    <h4 style="color: #F875AA; margin-top: 0;">📊 STATISTICS</h4>
+    <img src="https://github-readme-stats.vercel.app/api?username=seclusive-saku27&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=F875AA&icon_color=79ff97&text_color=ffffff&custom_title=Sakshi's+Stats" width="100%">
+  </div>
+  
+  <!-- RIGHT CARD: STREAK STATS -->
+  <div style="flex: 1; min-width: 350px; background: linear-gradient(145deg, #0D1117, #151A24); border-radius: 28px; padding: 20px; border: 1px solid #79ff9730; box-shadow: 0 10px 30px -10px #79ff9730;">
+    <h4 style="color: #79ff97; margin-top: 0;">🔥 STREAK METRICS</h4>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=seclusive-saku27&theme=radical&hide_border=true&background=0D1117&stroke=F875AA&ring=F875AA&fire=F875AA&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F875AA" width="100%">
+  </div>
+</div>
 
-## 🎨 Skill Progression
+<!-- ROW 2: LANGUAGES + ACTIVITY GRAPH -->
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 25px 0;">
+  
+  <!-- LEFT: LANGUAGE STATS -->
+  <div style="flex: 0.8; min-width: 300px; background: linear-gradient(145deg, #0D1117, #151A24); border-radius: 28px; padding: 20px; border: 1px solid #875AFD30; box-shadow: 0 10px 30px -10px #875AFD30;">
+    <h4 style="color: #875AFD; margin-top: 0;">📝 LANGUAGE DISTRIBUTION</h4>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seclusive-saku27&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F875AA&text_color=ffffff&langs_count=8&size_weight=0.5&count_weight=0.5" width="100%">
+  </div>
+  
+  <!-- RIGHT: CONTRIBUTION GRAPH -->
+  <div style="flex: 2; min-width: 450px; background: linear-gradient(145deg, #0D1117, #151A24); border-radius: 28px; padding: 20px; border: 1px solid #FF6B6B30; box-shadow: 0 10px 30px -10px #FF6B6B30;">
+    <h4 style="color: #FF6B6B; margin-top: 0;">📈 CONTRIBUTION ACTIVITY</h4>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=seclusive-saku27&theme=react-dark&bg_color=0D1117&hide_border=true&color=F875AA&line=79ff97&point=ffffff&area=true&area_color=79ff97&title_color=F875AA" width="100%">
+  </div>
+</div>
 
-```text
-Python          ████████████████████████░░░   92%  [████████████████████████░░░]
-Django          ███████████████████████░░░░   88%  [███████████████████████░░░░]
-FastAPI         ██████████████████████░░░░░   85%  [██████████████████████░░░░░]
-React           ████████████████████░░░░░░░   80%  [████████████████████░░░░░░░]
-PostgreSQL      █████████████████████░░░░░░   86%  [█████████████████████░░░░░░]
-Docker          ███████████████████░░░░░░░░   78%  [███████████████████░░░░░░░░]
-AWS             ████████████████░░░░░░░░░░░   70%  [████████████████░░░░░░░░░░░]
-Machine Learning███████████████████░░░░░░░░   76%  [██████████████████░░░░░░░░░]
-Git             ████████████████████████░░░   94%  [████████████████████████░░░]
-REST APIs       ███████████████████████░░░░   90%  [███████████████████████░░░░]
-```
+<!-- TROPHY WALL -->
+<div style="background: #0D1117; border-radius: 28px; padding: 24px; margin: 24px 0; border: 1px solid #F875AA; box-shadow: 0 0 30px #F875AA20;">
+  <h3 align="center" style="color: #fff; margin-bottom: 20px;">🏆 ACHIEVEMENT TROPHY WALL</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=seclusive-saku27&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=6" width="100%">
+</div>
 
----
+<!-- FEATURED PROJECTS SHOWCASE -->
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="30">
+  <span style="background: linear-gradient(90deg, #F875AA, #FFD966); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">FEATURED PROJECTS</span>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glowing%20Star.png" width="30">
+</h2>
 
-## 🏆 Featured Projects
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
-### ⚖️ **LAW EDIFY - Legal NLP Platform**
-[![GitHub Stars](https://img.shields.io/github/stars/seclusive-saku27/law-edify?style=flat-square&label=Stars&color=F875AA&logo=github)](https://github.com/seclusive-saku27/law-edify)
-[![GitHub Forks](https://img.shields.io/github/forks/seclusive-saku27/law-edify?style=flat-square&label=Forks&color=79ff97)](https://github.com/seclusive-saku27/law-edify)
+<!-- PROJECT CARDS GRID - BOOTSTRAP STYLE -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
 
-<details>
-<summary><b>📋 Click to expand details</b></summary>
+  <!-- CARD 1: LAW EDIFY -->
+  <div style="flex: 1; min-width: 300px; background: linear-gradient(145deg, #0F1117, #1A1D26); border-radius: 28px; padding: 0; overflow: hidden; border: 1px solid #F875AA40; transition: all 0.3s; box-shadow: 0 10px 20px rgba(0,0,0,0.5);" 
+       onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 20px 40px #F875AA40';" 
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 10px 20px rgba(0,0,0,0.5)';">
+    
+    <div style="background: linear-gradient(90deg, #F875AA, #875AFD); height: 8px;"></div>
+    <div style="padding: 24px;">
+      <div style="display: flex; justify-content: space-between; align-items: center;">
+        <h3 style="color: #F875AA; margin: 0;">⚖️ LAW EDIFY</h3>
+        <div>
+          <img src="https://img.shields.io/github/stars/seclusive-saku27/law-edify?style=flat-square&label=★&color=F875AA">
+          <img src="https://img.shields.io/github/forks/seclusive-saku27/law-edify?style=flat-square&label=⑂&color=79ff97">
+        </div>
+      </div>
+      
+      <p style="color: #B0B8D9; margin: 15px 0;">AI-powered legal platform with NLP for document summarization, precedent analysis, and legal research automation.</p>
+      
+      <div style="display: flex; flex-wrap: wrap; gap: 5px; margin: 15px 0;">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/BERT-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+      </div>
+      
+      <div style="display: flex; gap: 10px; margin-top: 20px;">
+        <img src="https://img.shields.io/badge/60%25_Time_Reduction-00FF9D?style=flat-square&label=IMPACT&labelColor=0D1117">
+        <img src="https://img.shields.io/badge/95%25_Accuracy-875AFD?style=flat-square&label=ML&labelColor=0D1117">
+        <a href="https://github.com/seclusive-saku27/law-edify"><img src="https://img.shields.io/badge/REPO-000?style=flat-square&logo=github"></a>
+      </div>
+    </div>
+  </div>
+  
+  <!-- CARD 2: BLOOD BANK SYSTEM -->
+  <div style="flex: 1; min-width: 300px; background: linear-gradient(145deg, #0F1117, #1A1D26); border-radius: 28px; padding: 0; overflow: hidden; border: 1px solid #79ff9740; transition: all 0.3s; box-shadow: 0 10px 20px rgba(0,0,0,0.5);"
+       onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 20px 40px #79ff9740';" 
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 10px 20px rgba(0,0,0,0.5)';">
+    
+    <div style="background: linear-gradient(90deg, #79ff97, #00FF9D); height: 8px;"></div>
+    <div style="padding: 24px;">
+      <div style="display: flex; justify-content: space-between; align-items: center;">
+        <h3 style="color: #79ff97; margin: 0;">💉 BLOOD BANK MGMT</h3>
+        <div>
+          <img src="https://img.shields.io/github/stars/seclusive-saku27/blood-bank-system?style=flat-square&label=★&color=79ff97">
+          <img src="https://img.shields.io/github/forks/seclusive-saku27/blood-bank-system?style=flat-square&label=⑂&color=00FF9D">
+        </div>
+      </div>
+      
+      <p style="color: #B0B8D9; margin: 15px 0;">Real-time inventory tracking, donor management, emergency SMS alerts, and predictive analytics for blood demand.</p>
+      
+      <div style="display: flex; flex-wrap: wrap; gap: 5px; margin: 15px 0;">
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+        <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white">
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+        <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white">
+      </div>
+      
+      <div style="display: flex; gap: 10px; margin-top: 20px;">
+        <img src="https://img.shields.io/badge/-50%25_Response-FF6B6B?style=flat-square&label=EMERGENCY&labelColor=0D1117">
+        <img src="https://img.shields.io/badge/+40%25_Retention-79ff97?style=flat-square&label=DONORS&labelColor=0D1117">
+        <a href="https://github.com/seclusive-saku27/blood-bank-system"><img src="https://img.shields.io/badge/REPO-000?style=flat-square&logo=github"></a>
+      </div>
+    </div>
+  </div>
+  
+  <!-- CARD 3: E-COMMERCE MICROSERVICES -->
+  <div style="flex: 1; min-width: 300px; background: linear-gradient(145deg, #0F1117, #1A1D26); border-radius: 28px; padding: 0; overflow: hidden; border: 1px solid #875AFD40; transition: all 0.3s; box-shadow: 0 10px 20px rgba(0,0,0,0.5);"
+       onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 20px 40px #875AFD40';" 
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 10px 20px rgba(0,0,0,0.5)';">
+    
+    <div style="background: linear-gradient(90deg, #875AFD, #B18BFF); height: 8px;"></div>
+    <div style="padding: 24px;">
+      <div style="display: flex; justify-content: space-between; align-items: center;">
+        <h3 style="color: #875AFD; margin: 0;">🛍️ E-COMMERCE PLATFORM</h3>
+        <div>
+          <img src="https://img.shields.io/github/stars/seclusive-saku27/ecommerce-microservices?style=flat-square&label=★&color=875AFD">
+          <img src="https://img.shields.io/github/forks/seclusive-saku27/ecommerce-microservices?style=flat-square&label=⑂&color=B18BFF">
+        </div>
+      </div>
+      
+      <p style="color: #B0B8D9; margin: 15px 0;">Microservices architecture with API Gateway, Service Discovery, Kafka, and polyglot persistence.</p>
+      
+      <div style="display: flex; flex-wrap: wrap; gap: 5px; margin: 15px 0;">
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+        <img src="https://img.shields.io/badge/Jaeger-60A5FA?style=flat-square&logo=jaeger&logoColor=white">
+      </div>
+      
+      <div style="display: flex; gap: 10px; margin-top: 20px;">
+        <img src="https://img.shields.io/badge/10k%2Fsec_Throughput-00FF9D?style=flat-square&label=PERFORMANCE&labelColor=0D1117">
+        <img src="https://img.shields.io/badge/99.95%25_Availability-79ff97?style=flat-square&label=SLA&labelColor=0D1117">
+        <a href="https://github.com/seclusive-saku27/ecommerce-microservices"><img src="https://img.shields.io/badge/REPO-000?style=flat-square&logo=github"></a>
+      </div>
+    </div>
+  </div>
+</div>
 
-```yaml
-Features:
-  • Legal document summarization using BERT & GPT models
-  • TF-IDF & Cosine Similarity for precedent analysis
-  • Real-time chat with legal documents
-  • Case law recommendation engine
-  • Multi-format document processing (PDF, DOCX, TXT)
-  • Automated legal research assistant
-
-Tech Stack:
-  - Backend: FastAPI, Python 3.10+
-  - ML: Transformers, spaCy, Scikit-learn
-  - Database: PostgreSQL, Redis
-  - Frontend: React.js, Tailwind CSS
-  - DevOps: Docker, AWS, GitHub Actions
-
-Metrics:
-  • Reduced document review time: 60%
-  • Precedent matching accuracy: 95%
-  • Processing speed: 1000+ documents/day
-  • API response time: <200ms
-```
+<!-- COLLAPSIBLE ACCORDION SECTIONS - BOOTSTRAP STYLE -->
+<details style="background: #0D1117; border-radius: 28px; padding: 20px; margin: 20px 0; border: 1px solid #F875AA;">
+  <summary style="color: #F875AA; font-size: 22px; font-weight: 700; cursor: pointer; list-style: none; display: flex; align-items: center;">
+    <span style="margin-right: 12px;">📚</span> LEARNING JOURNEY & 2024 GOALS
+    <span style="margin-left: auto; font-size: 18px;">▼</span>
+  </summary>
+  
+  <div style="margin-top: 25px;">
+    
+    <!-- TIMELINE VERTICAL -->
+    <div style="position: relative; padding-left: 30px;">
+      
+      <!-- TIMELINE LINE -->
+      <div style="position: absolute; left: 10px; top: 10px; bottom: 10px; width: 3px; background: linear-gradient(180deg, #F875AA, #79ff97, #875AFD); border-radius: 3px;"></div>
+      
+      <!-- ITEM 1 -->
+      <div style="margin-bottom: 30px; position: relative;">
+        <div style="position: absolute; left: -36px; top: 5px; width: 20px; height: 20px; background: #F875AA; border-radius: 50%; border: 3px solid #0D1117; box-shadow: 0 0 0 3px #F875AA60;"></div>
+        <div style="background: #1A1E2A; border-radius: 20px; padding: 20px;">
+          <h4 style="color: #F875AA; margin: 0;">Q1 2024 · FastAPI Advanced ✓</h4>
+          <p style="color: #B0B8D9;">Completed advanced FastAPI patterns, async DB operations, WebSocket implementations</p>
+          <img src="https://img.shields.io/badge/STATUS-COMPLETED-00FF9D?style=flat-square">
+        </div>
+      </div>
+      
+      <!-- ITEM 2 -->
+      <div style="margin-bottom: 30px; position: relative;">
+        <div style="position: absolute; left: -36px; top: 5px; width: 20px; height: 20px; background: #79ff97; border-radius: 50%; border: 3px solid #0D1117; box-shadow: 0 0 0 3px #79ff9760;"></div>
+        <div style="background: #1A1E2A; border-radius: 20px; padding: 20px;">
+          <h4 style="color: #79ff97; margin: 0;">Q2 2024 · Kubernetes Certification</h4>
+          <p style="color: #B0B8D9;">CKA certification in progress, currently at 70% completion</p>
+          <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-FFD966?style=flat-square">
+          <div style="background: #2D2F3A; height: 6px; width: 200px; border-radius: 6px; margin-top: 10px;"><div style="width: 70%; background: #79ff97; height: 6px; border-radius: 6px;"></div></div>
+        </div>
+      </div>
+      
+      <!-- ITEM 3 -->
+      <div style="margin-bottom: 30px; position: relative;">
+        <div style="position: absolute; left: -36px; top: 5px; width: 20px; height: 20px; background: #875AFD; border-radius: 50%; border: 3px solid #0D1117; box-shadow: 0 0 0 3px #875AFD60;"></div>
+        <div style="background: #1A1E2A; border-radius: 20px; padding: 20px;">
+          <h4 style="color: #875AFD; margin: 0;">Q3 2024 · ML Ops Pipeline</h4>
+          <p style="color: #B0B8D9;">Building end-to-end ML pipelines with Kubeflow, MLflow, and model monitoring</p>
+          <img src="https://img.shields.io/badge/STATUS-PLANNED-875AFD?style=flat-square">
+        </div>
+      </div>
+      
+      <!-- ITEM 4 -->
+      <div style="position: relative;">
+        <div style="position: absolute; left: -36px; top: 5px; width: 20px; height: 20px; background: #FF6B6B; border-radius: 50%; border: 3px solid #0D1117; box-shadow: 0 0 0 3px #FF6B6B60;"></div>
+        <div style="background: #1A1E2A; border-radius: 20px; padding: 20px;">
+          <h4 style="color: #FF6B6B; margin: 0;">Q4 2024 · AWS Solutions Architect</h4>
+          <p style="color: #B0B8D9;">Preparing for AWS SAA-C03 certification with hands-on projects</p>
+          <img src="https://img.shields.io/badge/STATUS-PLANNED-FF6B6B?style=flat-square">
+        </div>
+      </div>
+    </div>
+    
+    <!-- GOALS GRID -->
+    <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 30px;">
+      <div style="flex: 1; min-width: 200px; background: #1A1E2A; border-radius: 16px; padding: 16px; border-left: 4px solid #F875AA;">
+        <h5 style="color: #F875AA; margin: 0;">🎯 GraphQL Mastery</h5>
+        <small>June 2024</small>
+      </div>
+      <div style="flex: 1; min-width: 200px; background: #1A1E2A; border-radius: 16px; padding: 16px; border-left: 4px solid #79ff97;">
+        <h5 style="color: #79ff97; margin: 0;">☸️ Istio Service Mesh</h5>
+        <small>August 2024</small>
+      </div>
+      <div style="flex: 1; min-width: 200px; background: #1A1E2A; border-radius: 16px; padding: 16px; border-left: 4px solid #875AFD;">
+        <h5 style="color: #875AFD; margin: 0;">🤖 LLM Fine-tuning</h5>
+        <small>September 2024</small>
+      </div>
+    </div>
+  </div>
 </details>
 
-### 💉 **Blood Bank Management System**
-[![GitHub Stars](https://img.shields.io/github/stars/seclusive-saku27/blood-bank-system?style=flat-square&label=Stars&color=F875AA&logo=github)](https://github.com/seclusive-saku27/blood-bank-system)
-
-<details>
-<summary><b>📋 Click to expand details</b></summary>
-
-```yaml
-Features:
-  • Real-time blood inventory tracking
-  • Donor management with eligibility checking
-  • Emergency request system with SMS alerts
-  • Automated expiry notifications
-  • Predictive analytics for blood demand
-  • Multi-location coordination
-
-Tech Stack:
-  - Backend: Django REST Framework
-  - Frontend: React.js, Material-UI
-  - Database: PostgreSQL, Redis Cache
-  - Services: Celery, RabbitMQ
-  - Integrations: Twilio SMS, SendGrid Email
-
-Impact:
-  • Emergency response time: -50%
-  • Donor retention rate: +40%
-  • Inventory wastage: -35%
-  • User satisfaction: 4.8/5.0
-```
+<!-- CERTIFICATIONS ACCORDION -->
+<details style="background: #0D1117; border-radius: 28px; padding: 20px; margin: 20px 0; border: 1px solid #79ff97;">
+  <summary style="color: #79ff97; font-size: 22px; font-weight: 700; cursor: pointer; list-style: none; display: flex; align-items: center;">
+    <span style="margin-right: 12px;">🏅</span> CERTIFICATIONS & ACHIEVEMENTS
+    <span style="margin-left: auto; font-size: 18px;">▼</span>
+  </summary>
+  
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 25px;">
+    <div style="background: #1A1E2A; border-radius: 20px; padding: 20px; flex: 1; min-width: 250px;">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+      <p style="color: #F875AA; font-weight: 700; margin: 15px 0 5px;">Solutions Architect Associate</p>
+      <small style="color: #B0B8D9;">Issued: Jan 2024 · Expires: Jan 2027</small>
+    </div>
+    
+    <div style="background: #1A1E2A; border-radius: 20px; padding: 20px; flex: 1; min-width: 250px;">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+      <p style="color: #79ff97; font-weight: 700; margin: 15px 0 5px;">Docker Certified Associate</p>
+      <small style="color: #B0B8D9;">Issued: Oct 2023</small>
+    </div>
+    
+    <div style="background: #1A1E2A; border-radius: 20px; padding: 20px; flex: 1; min-width: 250px;">
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+      <p style="color: #875AFD; font-weight: 700; margin: 15px 0 5px;">Django for Professionals</p>
+      <small style="color: #B0B8D9;">Udemy · 2024</small>
+    </div>
+  </div>
+  
+  <div style="margin-top: 25px; text-align: center;">
+    <img src="https://img.shields.io/badge/5%2B_Professional_Certifications-00FF9D?style=for-the-badge&labelColor=0D1117">
+    <img src="https://img.shields.io/badge/3_Hackathon_Wins-875AFD?style=for-the-badge&labelColor=0D1117">
+    <img src="https://img.shields.io/badge/Open_Source_Contributor-79ff97?style=for-the-badge&labelColor=0D1117">
+  </div>
 </details>
 
-### 🛍️ **E-Commerce Microservices Platform**
-[![GitHub Stars](https://img.shields.io/github/stars/seclusive-saku27/ecommerce-microservices?style=flat-square&label=Stars&color=F875AA&logo=github)](https://github.com/seclusive-saku27/ecommerce-microservices)
-
-<details>
-<summary><b>📋 Click to expand details</b></summary>
-
-```yaml
-Architecture:
-  • API Gateway: Spring Cloud Gateway
-  • Service Discovery: Eureka Server
-  • Services: Product, Order, Payment, User, Notification
-  • Message Broker: Apache Kafka
-  • Database: MongoDB, PostgreSQL (polyglot persistence)
-
-Features:
-  • Distributed tracing with Jaeger
-  • Centralized logging with ELK Stack
-  • Circuit breaker pattern with Resilience4j
-  • JWT-based authentication
-  • Real-time notifications with WebSocket
-
-Performance:
-  • Throughput: 10,000+ requests/second
-  • Availability: 99.95%
-  • Average latency: 150ms
-  • Database queries: <100ms
-```
-</details>
-
----
-
-## 📈 Advanced GitHub Metrics
-
-<div align="center">
-
-<!-- GitHub Metrics -->
-<img src="https://metrics.lecoq.io/seclusive-saku27?template=classic&base.repositories=12&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata" width="49%" />
-
-<!-- GitHub Calendar -->
-<img src="https://github-readme-calendar.vercel.app/api?username=seclusive-saku27&theme=radical&bg_color=0d1117&text_color=ffffff&title_color=F875AA" width="49%" />
-
-</div>
-
-<!-- GitHub Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/seclusive-saku27/seclusive-saku27/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</div>
-
----
-
-## 📚 Learning Journey
-
-### 🎯 2024 Goals Progress
-```mermaid
-gantt
-    title 2024 Learning & Development Goals
-    dateFormat  YYYY-MM
-    axisFormat  %b
+<!-- RECENT ACTIVITY LOG -->
+<div style="background: #0D1117; border-radius: 28px; padding: 24px; margin: 24px 0; border: 1px solid #875AFD;">
+  <h3 style="color: #875AFD; display: flex; align-items: center; gap: 10px;">
+    <span>📋 RECENT ACTIVITY FEED</span>
+    <img src="https://img.shields.io/badge/LIVE-FF6B6B?style=flat-square&logo=livechat&logoColor=white">
+  </h3>
+  
+  <div style="display: flex; flex-direction: column; gap: 15px;">
+    <div style="display: flex; align-items: center; gap: 15px; padding: 10px; background: #1A1E2A; border-radius: 16px;">
+      <img src="https://img.shields.io/badge/MERGED-79ff97?style=flat-square">
+      <span style="color: #fff;">PR in LAW EDIFY: Added GPT-4 integration for legal analysis</span>
+      <span style="color: #B0B8D9; margin-left: auto;">2h ago</span>
+    </div>
     
-    section Backend Development
-    FastAPI Advanced :done, 2024-01, 2M
-    GraphQL Mastery :active, 2024-03, 3M
-    Microservices Patterns :2024-06, 2M
+    <div style="display: flex; align-items: center; gap: 15px; padding: 10px; background: #1A1E2A; border-radius: 16px;">
+      <img src="https://img.shields.io/badge/PUSHED-F875AA?style=flat-square">
+      <span style="color: #fff;">15 commits to ecommerce-microservices: Payment service</span>
+      <span style="color: #B0B8D9; margin-left: auto;">5h ago</span>
+    </div>
     
-    section DevOps
-    Kubernetes Certification :2024-04, 4M
-    AWS Solutions Architect :2024-08, 3M
-    Terraform IaC :2024-11, 2M
+    <div style="display: flex; align-items: center; gap: 15px; padding: 10px; background: #1A1E2A; border-radius: 16px;">
+      <img src="https://img.shields.io/badge/CREATED-875AFD?style=flat-square">
+      <span style="color: #fff;">New repo: real-time-chat-app with WebSocket</span>
+      <span style="color: #B0B8D9; margin-left: auto;">1d ago</span>
+    </div>
     
-    section AI/ML
-    ML Ops Pipeline :active, 2024-02, 4M
-    LLM Fine-tuning :2024-06, 3M
-    Computer Vision :2024-09, 3M
-```
-
-### 📊 Monthly Contributions
-<!--START_SECTION:activity-->
-| Month | Commits | PRs | Issues | Stars |
-|-------|---------|-----|--------|-------|
-| Jan 2024 | 142 | 8 | 12 | 45 |
-| Feb 2024 | 167 | 12 | 15 | 67 |
-| Mar 2024 | 189 | 15 | 18 | 89 |
-| Apr 2024 | 156 | 10 | 14 | 72 |
-| May 2024 | 201 | 18 | 22 | 98 |
-<!--END_SECTION:activity-->
-
----
-
-## 🏅 Achievements & Certifications
-
-<div align="center">
-  <img src="https://github-profile-achievements.vercel.app/api?username=seclusive-saku27&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15&achievement=quick-draw,pull-shark,yolo,arctic-code-vault,starstruck,reviews,sponsorable" />
+    <div style="display: flex; align-items: center; gap: 15px; padding: 10px; background: #1A1E2A; border-radius: 16px;">
+      <img src="https://img.shields.io/badge/SOLVED-00FF9D?style=flat-square">
+      <span style="color: #fff;">25 LeetCode problems · Streak: 45 days 🔥</span>
+      <span style="color: #B0B8D9; margin-left: auto;">2d ago</span>
+    </div>
+  </div>
 </div>
 
-### 🎖️ Certifications
-- **AWS Certified Solutions Architect - Associate** (2024)
-- **Django for Professionals** (Udemy, 2024)
-- **FastAPI: Modern Python Web Development** (Coursera, 2024)
-- **Docker Certified Associate** (2023)
-- **Microsoft Azure Fundamentals** (2023)
+<!-- CONNECT SECTION -->
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" width="30">
+  <span style="background: linear-gradient(90deg, #F875AA, #875AFD); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">CONNECT WITH ME</span>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" width="30">
+</h2>
 
----
+<div align="center" style="margin: 30px 0; display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
+  <a href="https://www.linkedin.com/in/sakshi-r-906ab1235/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=0A66C2"></a>
+  <a href="mailto:rsakshi205@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=EA4335"></a>
+  <a href="https://github.com/seclusive-saku27"><img src="https://img.shields.io/badge/GITHUB-Profile-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=171515"></a>
+  <a href="https://leetcode.com/u/seclusive-saku27/"><img src="https://img.shields.io/badge/LEETCODE-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117&color=FFA116"></a>
+  <a href="https://seclusive-saku27.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-FF6F00?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0D1117&color=FF6F00"></a>
+  <a href="https://dev.to/seclusive-saku27"><img src="https://img.shields.io/badge/DEV.TO-Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0D1117&color=0A0A0A"></a>
+</div>
 
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR in LAW EDIFY: Added GPT-4 integration for legal analysis
-2. 🔥 Pushed 15 commits to ecommerce-microservices: Implemented payment service
-3. 🚀 Created new repository: real-time-chat-app with WebSocket
-4. 📝 Published article: "Microservices Best Practices with FastAPI"
-5. 🎯 Solved 25 LeetCode problems (Streak: 45 days)
-6. 🤝 Contributed to open-source: Django REST Framework documentation
-7. 🏆 Completed Hackathon: Built AI-powered resume analyzer
-8. 📚 Started new course: Kubernetes in Production
-<!--END_SECTION:activity-->
-
----
-
-## 🤝 Collaboration Network
-
-<div align="center">
-  
-  ```mermaid
-  graph LR
-      A[Sakshi R] --> B[Open Source Projects]
-      A --> C[Tech Communities]
-      A --> D[Hackathons]
-      A --> E[Research Papers]
-      
-      B --> B1[Django Packages]
-      B --> B2[FastAPI Plugins]
-      B --> B3[AI/ML Tools]
-      
-      C --> C1[PyData]
-      C --> C2[MLOps Community]
-      C --> C3[Women Who Code]
-      
-      D --> D1[Smart India Hackathon]
-      D --> D2[HackerEarth]
-      D --> D3[Devfolio]
-      
-      E --> E1[Legal Tech AI]
-      E --> E2[Healthcare Systems]
-      E --> E3[E-commerce Optimization]
-  ```
-  
-  <p>
-    <img src="https://img.shields.io/badge/Open%20to%20Collaboration-28A745?style=for-the-badge&logo=handshake&logoColor=white" />
-    <img src="https://img.shields.io/badge/Mentorship-FF6B6B?style=for-the-badge&logo=mentor&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tech%20Speaker-9C27B0?style=for-the-badge&logo=speaker&logoColor=white" />
+<!-- FUN FACT SECTION -->
+<div align="center" style="margin: 40px 0; padding: 20px; background: linear-gradient(145deg, #0D1117, #1A1E2A); border-radius: 100px;">
+  <p style="color: #F875AA; font-size: 18px; font-style: italic;">
+    ⚡ "Code is like humor. When you have to explain it, it's bad." — Cory House
   </p>
-  
+  <div style="display: flex; gap: 20px; justify-content: center; margin-top: 15px;">
+    <img src="https://img.shields.io/badge/⚡_FACT-Rubik's_Cube_<2min-79ff97?style=flat-square">
+    <img src="https://img.shields.io/badge/☕_Coffee-Consumption:_5%2Fday-F875AA?style=flat-square">
+    <img src="https://img.shields.io/badge/🌙_Night_Owl-Yes!-875AFD?style=flat-square">
+  </div>
 </div>
 
----
-
-## 📬 Connect With Me
-
+<!-- FOOTER WAVE -->
 <div align="center">
-  
-  <a href="https://www.linkedin.com/in/sakshi-r-906ab1235/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rsakshi205@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@yourusername">
-    <img src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://dev.to/seclusive-saku27">
-    <img src="https://img.shields.io/badge/Dev.to-Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks+for+visiting!+Let's+build+something+amazing+🚀&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%">
 </div>
 
----
-
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks+for+visiting!+🚀&fontSize=32&fontColor=ffffff&animation=fadeIn&reversal=false&stroke=000000&strokeWidth=2" />
-  
-  <p align="center">
-    <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-  </p>
-  
-  <p align="center">
-    <a href="https://github.com/seclusive-saku27?tab=repositories">
-      <img src="https://img.shields.io/badge/Explore_My_Work-171515?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://seclusive-saku27.github.io">
-      <img src="https://img.shields.io/badge/Visit_Portfolio-FF6F00?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-    </a>
-    <a href="https://github.com/seclusive-saku27/seclusive-saku27/blob/main/README.md">
-      <img src="https://img.shields.io/badge/View_Readme_Stats-F875AA?style=for-the-badge&logo=markdown&logoColor=white" />
-    </a>
-  </p>
-  
-</div>
-
----
-
-<div align="right">
-  
-  ![Last Updated](https://img.shields.io/badge/Last_Updated-$(date +"%B_%d,_%Y")-F875AA?style=flat-square&logo=github)
-  ![Profile Hits](https://hit.yhype.me/github/profile?user_id=seclusive-saku27)
-  
-</div>
-
-<!-- CSS Animations -->
+<!-- CSS ANIMATIONS -->
 <style>
-  @keyframes float {
-    0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
+  @keyframes pulseGlow {
+    0%, 100% { box-shadow: 0 0 20px #F875AA; }
+    50% { box-shadow: 0 0 40px #F875AA, 0 0 60px #875AFD; }
   }
   
-  @keyframes glow {
-    0%, 100% { box-shadow: 0 0 5px currentColor; }
-    50% { box-shadow: 0 0 20px currentColor; }
-  }
-  
-  .social-badges img {
-    animation: float 3s ease-in-out infinite;
-    transition: all 0.3s ease;
-    margin: 5px;
-  }
-  
-  .social-badges img:hover {
-    animation: glow 1s ease-in-out infinite;
-    transform: scale(1.1);
-  }
-  
-  .tech-stack img {
-    transition: all 0.3s ease;
-    margin: 5px;
-    animation: fadeIn 0.5s ease-out;
-  }
-  
-  .tech-stack img:hover {
-    transform: translateY(-5px) scale(1.05);
-    box-shadow: 0 10px 20px rgba(248, 117, 170, 0.3);
-  }
-  
-  details {
-    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-    border-radius: 15px;
-    padding: 20px;
-    margin: 15px 0;
-    border-left: 5px solid #F875AA;
-    transition: all 0.4s ease;
-    animation: slideIn 0.5s ease-out;
-  }
-  
-  details:hover {
-    box-shadow: 0 10px 30px rgba(248, 117, 170, 0.4);
-    transform: translateX(5px);
-  }
-  
-  details summary {
-    cursor: pointer;
-    font-weight: bold;
-    color: #F875AA;
-    font-size: 1.1em;
-    padding: 10px;
-    transition: color 0.3s ease;
-  }
-  
-  details summary:hover {
-    color: #79ff97;
-  }
-  
-  details[open] summary {
-    margin-bottom: 15px;
-    border-bottom: 2px solid #79ff97;
-    padding-bottom: 10px;
-  }
-  
-  @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(20px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-  
-  @keyframes slideIn {
-    from { opacity: 0; transform: translateX(-20px); }
-    to { opacity: 1; transform: translateX(0); }
-  }
-  
-  /* Progress bar animation */
-  .progress-bar {
-    animation: progressFill 2s ease-out forwards;
-  }
-  
-  @keyframes progressFill {
+  @keyframes loadBar {
     from { width: 0; }
+    to { width: 100%; }
+  }
+  
+  div[style*="transition: all 0.3s;"]:hover {
+    transform: translateY(-10px);
   }
 </style>
 
-<!-- JavaScript for dynamic updates -->
-<script>
-  // Update date dynamically
-  document.addEventListener('DOMContentLoaded', function() {
-    const date = new Date();
-    const options = { year: 'numeric', month: 'long', day: 'numeric' };
-    const dateStr = date.toLocaleDateString('en-US', options).replace(/ /g, '_');
-    
-    // Update last updated badge
-    const lastUpdated = document.querySelector('[alt="Last Updated"]');
-    if (lastUpdated) {
-      lastUpdated.src = lastUpdated.src.replace('$(date +"%B_%d,_%Y")', dateStr);
-    }
-    
-    // Animate progress bars
-    const progressBars = document.querySelectorAll('.progress-bar');
-    progressBars.forEach(bar => {
-      const width = bar.style.width;
-      bar.style.width = '0';
-      setTimeout(() => {
-        bar.style.transition = 'width 1.5s cubic-bezier(0.4, 0, 0.2, 1)';
-        bar.style.width = width;
-      }, 300);
-    });
-    
-    // Add hover effects to tech badges
-    const techBadges = document.querySelectorAll('.tech-stack img');
-    techBadges.forEach(badge => {
-      badge.addEventListener('mouseenter', () => {
-        badge.style.transform = 'translateY(-5px) scale(1.05)';
-        badge.style.boxShadow = '0 10px 20px rgba(248, 117, 170, 0.3)';
-      });
-      
-      badge.addEventListener('mouseleave', () => {
-        badge.style.transform = 'translateY(0) scale(1)';
-        badge.style.boxShadow = 'none';
-      });
-    });
-  });
-  
-  // Dynamic theme based on time
-  function updateTheme() {
-    const hour = new Date().getHours();
-    const isDark = hour < 6 || hour >= 18;
-    
-    if (isDark) {
-      document.documentElement.style.setProperty('--primary-color', '#F875AA');
-      document.documentElement.style.setProperty('--secondary-color', '#79ff97');
-    } else {
-      document.documentElement.style.setProperty('--primary-color', '#306998');
-      document.documentElement.style.setProperty('--secondary-color', '#FFD43B');
-    }
-  }
-  
-  // Initialize theme
-  updateTheme();
-</script>
-
-<!-- Add CSS variables for theme -->
-<style>
-  :root {
-    --primary-color: #F875AA;
-    --secondary-color: #79ff97;
-  }
-</style>
-
-<!-- Visitor Counter -->
-<script async src="https://www.goat100.com/counter.js"></script>
-<div align="center">
-  <a href="https://www.goat100.com/">
-    <img src="https://www.goat100.com/counter.php?page=seclusive-saku27&style=0006&nbdigits=6&type=page&initCount=1000" alt="Visitor Counter" />
-  </a>
+<!-- LIVE TIMESTAMP -->
+<div align="right">
+  <img src="https://img.shields.io/badge/LAST_UPDATED-{{ "now" | date: "%Y-%m-%d %H:%M" }}-F875AA?style=flat-square&logo=github">
+  <img src="https://hit.yhype.me/github/profile?user_id=seclusive-saku27">
 </div>
