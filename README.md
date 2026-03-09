@@ -123,7 +123,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=footer" width="100%" />
   <p style="color: #B0B8D9;"><i>"Quality is not an act, it is a habit." - Built with ❤️ by Sakshi R</i></p>
-  <img src="https://raw.githubusercontent.com/seclusive-saku27/seclusive-saku27/output/github-contribution-grid-snake.svg" alt="snake" width="60%" />
+  <!-- <img src="https://raw.githubusercontent.com/seclusive-saku27/seclusive-saku27/output/github-contribution-grid-snake.svg" alt="snake" width="60%" /> -->
 </div>
 
 <div align="right">
