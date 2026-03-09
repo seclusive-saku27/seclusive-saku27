@@ -38,9 +38,9 @@
         <img src="https://img.shields.io/badge/Methodology-Agile%20%26%20Clean%20Code-79ff97?style=flat-square" />
       </p>
     </td>
-    <td width="35%" align="center">
+    <!-- <td width="35%" align="center">
       <img src="https://github-profile-trophy.vercel.app/?username=seclusive-saku27&theme=radical&no-frame=true&column=1&margin-w=15&margin-h=15" width="100%" />
-    </td>
+    </td> -->
   </tr>
 </table>
 
