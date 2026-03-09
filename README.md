@@ -71,10 +71,10 @@
 
 <div align="center">
   <table width="100%">
-    <tr>
+    <!-- <tr>
       <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=seclusive-saku27&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F875AA&icon_color=79ff97&text_color=ffffff" width="100%" /></td>
       <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seclusive-saku27&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F875AA&text_color=ffffff" width="100%" /></td>
-    </tr>
+    </tr> -->
     <tr>
       <td colspan="2"><img src="https://github-readme-activity-graph.vercel.app/graph?username=seclusive-saku27&theme=react-dark&bg_color=0D1117&hide_border=true&color=F875AA&line=79ff97&point=ffffff&area=true&area_color=79ff97&title_color=F875AA&custom_title=System_Contribution_Graph" width="100%" /></td>
     </tr>
