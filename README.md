@@ -178,6 +178,4 @@
   <p><i>"Quality is not an act, it is a habit." - Built with ❤️ by Sakshi R</i></p>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/seclusive-saku27/seclusive-saku27/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
+
